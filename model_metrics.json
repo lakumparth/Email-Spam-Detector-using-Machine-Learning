@@ -1,0 +1,53 @@
+{
+  "best_model": "Naive Bayes",
+  "metrics": {
+    "Naive Bayes": {
+      "accuracy": 0.9,
+      "precision": 0.8333,
+      "recall": 1.0,
+      "f1_score": 0.9091,
+      "confusion_matrix": [
+        [
+          4,
+          1
+        ],
+        [
+          0,
+          5
+        ]
+      ]
+    },
+    "Logistic Regression": {
+      "accuracy": 0.9,
+      "precision": 0.8333,
+      "recall": 1.0,
+      "f1_score": 0.9091,
+      "confusion_matrix": [
+        [
+          4,
+          1
+        ],
+        [
+          0,
+          5
+        ]
+      ]
+    },
+    "Support Vector Machine": {
+      "accuracy": 0.9,
+      "precision": 0.8333,
+      "recall": 1.0,
+      "f1_score": 0.9091,
+      "confusion_matrix": [
+        [
+          4,
+          1
+        ],
+        [
+          0,
+          5
+        ]
+      ]
+    }
+  }
+}
